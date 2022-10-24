@@ -17,3 +17,5 @@ buzzer
 mosfet to turn on / off motor of car 
 and some passive componets that you can find in schematic diagram
 
+![image](https://user-images.githubusercontent.com/47971251/197576662-339dbbb2-17fb-4b04-a879-72ad1a983a69.png)
+![image](https://user-images.githubusercontent.com/47971251/197576865-1207bb8d-cabb-4c23-9762-1b8b1c6f0801.png)
