@@ -1,7 +1,7 @@
 # carSafery
 this is a school project made for driver safery in car's
 
-The basic idea of thss project is when a driver eyes are not blinking (closed) for 10 sec then it will generate a beep sound through buzzer. If driver wakeup means(EYES OPENED) then it will shop beeping noise and if driver is sill not open eyes' for 5 sec then it will send a message from your mobile to registered mobile number with it's current location. 
+The basic idea of this project is when a driver's eyes are not blinking (closed) for 10 sec then it will generate a beep sound through buzzer. If driver wakeup means(EYES OPENED) then it will shop beeping noise sound and if driver is sill not open their eyes' for 5 sec then it will send a message from your mobile to registered mobile number with it's current location. 
  
 material used in this projects :
 
